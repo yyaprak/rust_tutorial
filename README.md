@@ -1,4 +1,4 @@
-# rust_tutorial
+# Rust Tutorial
 
 ## Project details 
 this project goal is to collect all tutorial codes in one project and through project given very simplistic and plain examples
